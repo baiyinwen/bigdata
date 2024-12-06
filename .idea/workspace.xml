@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e84d6339-8a75-4bf6-bc36-34ac7b8923b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/log4j.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/pre/flume_monitor.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/pro/flume_monitor.properties" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\app2\maven\repository" />
+        <option name="mavenHome" value="D:/app2/maven/apache-maven-3.9.1" />
+        <option name="userSettingsFile" value="D:\app2\maven\apache-maven-3.9.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="runMavenInBackground" value="false" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2F4E8bux6RG1t12lu8mIsZh3WJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/project/flume_monitor&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\flume_monitor\src\test" />
+      <recent name="E:\project\flume_monitor\src\main\resources" />
+      <recent name="D:\codespace\bigdata-flume-monitor\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.essc.bigdata.constants" />
+      <recent name="com.essc.bigdata" />
+      <recent name="com.essc.bigdata.util" />
+      <recent name="com.essc.bigdata.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.essc.bigdata.config.ConfigReader" />
+      <module name="flume_monitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.essc.bigdata.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlumeMonitorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.essc.bigdata.FlumeMonitorApplication" />
+      <module name="flume_monitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.essc.bigdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.essc.bigdata.constants.Test" />
+      <module name="bigdata-flume-monitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.essc.bigdata.constants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.essc.bigdata.FlumeMonitorApplicationOld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.essc.bigdata.FlumeMonitorApplicationOld" />
+      <module name="flume_monitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.essc.bigdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="flume_monitor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.FlumeMonitorApplication" />
+        <item itemvalue="Application.com.essc.bigdata.FlumeMonitorApplicationOld" />
+        <item itemvalue="Application.ConfigReader" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84d6339-8a75-4bf6-bc36-34ac7b8923b8" name="Default Changelist" comment="" />
+      <created>1663742799951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663742799951</updated>
+      <workItem from="1663742801621" duration="12631000" />
+      <workItem from="1663829680040" duration="9596000" />
+      <workItem from="1663896078090" duration="12949000" />
+      <workItem from="1664156058051" duration="39658000" />
+      <workItem from="1665194616211" duration="3135000" />
+      <workItem from="1665221596019" duration="427000" />
+      <workItem from="1665222059537" duration="591000" />
+      <workItem from="1665277370078" duration="3854000" />
+      <workItem from="1666574947074" duration="1451000" />
+      <workItem from="1666659818766" duration="3427000" />
+      <workItem from="1666919038534" duration="736000" />
+      <workItem from="1667459195529" duration="2510000" />
+      <workItem from="1672189902350" duration="897000" />
+      <workItem from="1672302773228" duration="64000" />
+      <workItem from="1680512071580" duration="855000" />
+      <workItem from="1680572057033" duration="5619000" />
+      <workItem from="1683508851930" duration="20575000" />
+      <workItem from="1683595151135" duration="16134000" />
+      <workItem from="1683682944359" duration="966000" />
+      <workItem from="1683684934499" duration="8043000" />
+      <workItem from="1683701545276" duration="242000" />
+      <workItem from="1683701837887" duration="11317000" />
+      <workItem from="1683769140588" duration="17043000" />
+      <workItem from="1683855684655" duration="15549000" />
+      <workItem from="1684113511977" duration="4665000" />
+      <workItem from="1684135564028" duration="411000" />
+      <workItem from="1684138337363" duration="1801000" />
+      <workItem from="1684140167885" duration="1250000" />
+      <workItem from="1684199113060" duration="11911000" />
+      <workItem from="1684285192615" duration="7536000" />
+      <workItem from="1684747719429" duration="2577000" />
+      <workItem from="1684890232112" duration="10224000" />
+      <workItem from="1685345547507" duration="2564000" />
+      <workItem from="1685426579123" duration="2084000" />
+      <workItem from="1685497030590" duration="1201000" />
+      <workItem from="1685503400310" duration="593000" />
+      <workItem from="1685524232804" duration="838000" />
+      <workItem from="1685584326275" duration="598000" />
+      <workItem from="1685674413774" duration="1200000" />
+      <workItem from="1685927947336" duration="1835000" />
+      <workItem from="1686015268054" duration="613000" />
+      <workItem from="1686101249191" duration="1335000" />
+      <workItem from="1686188040353" duration="637000" />
+      <workItem from="1686277617391" duration="4922000" />
+      <workItem from="1686793060261" duration="2408000" />
+      <workItem from="1686879666627" duration="4518000" />
+      <workItem from="1687330547206" duration="785000" />
+      <workItem from="1688031087210" duration="1684000" />
+      <workItem from="1690360586683" duration="1983000" />
+      <workItem from="1690363247178" duration="731000" />
+      <workItem from="1690368927911" duration="415000" />
+      <workItem from="1690774599315" duration="1205000" />
+      <workItem from="1691048021556" duration="104000" />
+      <workItem from="1699608128788" duration="1356000" />
+      <workItem from="1703043413157" duration="648000" />
+      <workItem from="1705372917582" duration="886000" />
+      <workItem from="1705993743053" duration="9500000" />
+      <workItem from="1706061515722" duration="11003000" />
+      <workItem from="1706176928420" duration="593000" />
+      <workItem from="1706580495729" duration="615000" />
+      <workItem from="1707011294657" duration="9123000" />
+      <workItem from="1707111665848" duration="3083000" />
+      <workItem from="1713490602368" duration="1269000" />
+      <workItem from="1721981108400" duration="1587000" />
+      <workItem from="1723010629943" duration="1516000" />
+      <workItem from="1726043799215" duration="595000" />
+      <workItem from="1726125355034" duration="3295000" />
+      <workItem from="1726194547184" duration="4150000" />
+      <workItem from="1726801380961" duration="1191000" />
+      <workItem from="1730098956415" duration="769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flume_monitor$FlumeMonitorApplication.ic" NAME="FlumeMonitorApplication Coverage Results" MODIFIED="1683626886834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.essc.bigdata.*</FILTER>
+    </SUITE>
+  </component>
+</project>
